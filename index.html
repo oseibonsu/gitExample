@@ -1,4 +1,4 @@
-<html lang="fr">
+<html lang="en">
 <body>
 </body>
 </html>
